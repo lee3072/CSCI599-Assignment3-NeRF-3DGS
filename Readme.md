@@ -72,14 +72,10 @@ The results are as follows:
 **Visualizations**
 -----------------
 
-I rendered the NeRF model using nerfstudio and generated a video (`renders/LivingRoom/Nerf Render.mp4`) showing the reconstructed 3D scene from different viewpoints. 
-
-<video  controls>
-  <source src="renders/LivingRoom/NerfRender.mp4" type="video/mp4">
-</video>
-
-I also captured an image (`renders/LivingRoom/Colmap Render.png`) from COLMAP's dense SFM result.
-
+I captured an image (`renders/LivingRoom/Colmap Render.png`) from COLMAP's dense SFM result.
 
 <img src="renders/LivingRoom/Colmap Render.png">
-<a herf=>
+
+I rendered the NeRF model using nerfstudio and generated a video (`renders/LivingRoom/Nerf Render.mp4`) showing the reconstructed 3D scene from different viewpoints. 
+
+<video src="https://github.com/lee3072/CSCI599-Assignment3-NeRF-3DGS/assets/42813404/9c109cee-963a-4e86-97da-6edc5a72675a">
