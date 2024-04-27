@@ -37,6 +37,8 @@ I used COLMAP to perform dense SFM reconstruction on the captured video with the
 * Model: `DenseSFM`
 * Pointcloud: `data/nerfstudio/LivingRoom/colmap/dense/0/fused.ply`
 
+`data/nerfstudio/LivingRoom/colmap/dense/` folder is copied to google drive due to github size limitation:<br>
+[Google Drive Colmap Folder](https://drive.google.com/drive/folders/1LyOOBDPafjhCL_58T4aCGAQo_rEUx-l3?usp=sharing)
 
 The training process took approximately 18 hours to complete.
 
