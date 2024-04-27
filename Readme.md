@@ -21,6 +21,9 @@ I trained the NeRF model using nerfstudio with the following configuration:
 * Model: `nerfacto`
 * Checkpoint: `outputs/LivingRoom/nerfacto/2024-04-22_08:20:39/nerfstudio_models/step-000029999.ckpt`
 
+Checkpoint file `step-000029999.ckpt` is copied to google drive due to github size limitation:<br>
+[Google Drive Checkpoint File]()
+
 `ns-train nerfacto --data data/nerfstudio/LivingRoom/`
 
 
