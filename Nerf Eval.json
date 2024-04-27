@@ -1,0 +1,17 @@
+{
+  "experiment_name": "LivingRoom",
+  "method_name": "nerfacto",
+  "checkpoint": "outputs/LivingRoom/nerfacto/2024-04-22_082039/nerfstudio_models/step-000029999.ckpt",
+  "results": {
+    "psnr": 25.373043060302734,
+    "psnr_std": 1.893225908279419,
+    "ssim": 0.8015406131744385,
+    "ssim_std": 0.07131550461053848,
+    "lpips": 0.12132494151592255,
+    "lpips_std": 0.03893772140145302,
+    "num_rays_per_sec": 896437.5,
+    "num_rays_per_sec_std": 80242.8671875,
+    "fps": 1.7292389869689941,
+    "fps_std": 0.15478947758674622
+  }
+}
